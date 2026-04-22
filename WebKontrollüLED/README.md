@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/12064fd4-33e9-4f32-a5d7-695fe426260f
+
 # WEB SAYFASINDAN LED KONTROLÜ (NODEMCU + HTML)
 
 Bu projede ESP8266 tabanlı NodeMCU kullanılarak basit bir web sunucusu oluşturulmuş ve internet tarayıcısı üzerinden LED kontrolü gerçekleştirilmiştir.

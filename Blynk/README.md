@@ -10,7 +10,7 @@ Bu projede bağlantı için D4,D5 ve  D6 pinleri kullanılmıştır. Ancak NodeM
 ### Blynk Template Oluşturma
 Blynk'i telefonunuza indirerek red,green ve blue için 3 farklı slider kullanmalısınız. 
 
-<img width="1080" height="2037" alt="blynkpic" src="https://github.com/user-attachments/assets/3b847a82-454b-4f07-8a3b-9b9349eaf741" />
+<img width="540" height="1018" alt="blynkpic" src="https://github.com/user-attachments/assets/3b847a82-454b-4f07-8a3b-9b9349eaf741" />
 
 ### Kod
 ```
